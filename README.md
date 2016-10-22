@@ -1,6 +1,9 @@
 # Simple Webpage
 
-This is a simple project demonstrating the creation of a static webpage using just CSS and HTML
+This is a simple project demonstrating the creation of a static webpage using
+just CSS and HTML
+
+Look in the commit messages for a step-by-step account of how this was built.
 
 #### Definitions
 
