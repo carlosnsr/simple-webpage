@@ -25,6 +25,8 @@ footer p {
 }
 
 main {
+  box-sizing: border-box;
+  padding: 0.5rem;
   width: 80%;
   margin: 0 auto;
   background-color: #94a8bf;
