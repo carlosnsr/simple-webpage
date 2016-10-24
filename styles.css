@@ -18,6 +18,8 @@ hr {
 
 header, main, footer {
   background-color: #94a8bf;
+  width: 80%;
+  margin: 0 auto;
 }
 
 h1 {
