@@ -20,6 +20,11 @@ header, main, footer {
   background-color: #94a8bf;
 }
 
+h1 {
+  /* make page title press up against top of screen */
+  margin: 0;
+}
+
 a:link {
   color: #7d2e68;
   text-decoration: none;
