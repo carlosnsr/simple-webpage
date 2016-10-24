@@ -12,14 +12,6 @@ body {
   background-color: #9f767a;
 }
 
-header {
-  background-color: #94a8bf;
-}
-
-main {
-  background-color: #94a8bf;
-}
-
-footer {
+header, main, footer {
   background-color: #94a8bf;
 }
