@@ -19,3 +19,16 @@ hr {
 header, main, footer {
   background-color: #94a8bf;
 }
+
+a:link {
+  color: #7d2e68;
+  text-decoration: none;
+}
+
+a:visited {
+  color: #84616a;
+}
+
+a:hover {
+  text-decoration: underline;
+}
