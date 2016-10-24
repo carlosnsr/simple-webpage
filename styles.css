@@ -6,6 +6,9 @@
  * pewter blue: #94a8bf
  * raspberry glace: #84616A
 */
+* {
+  box-sizing: border-box;
+}
 
 body {
   color: #384053;
@@ -31,7 +34,6 @@ main {
 }
 
 section {
-  box-sizing: border-box;
   padding: 0.5rem;
 }
 
