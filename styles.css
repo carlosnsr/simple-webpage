@@ -12,6 +12,10 @@ body {
   background-color: #9f767a;
 }
 
+hr {
+  border: 1px solid;
+}
+
 header, main, footer {
   background-color: #94a8bf;
 }
