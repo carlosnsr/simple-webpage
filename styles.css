@@ -10,6 +10,7 @@
 body {
   color: #384053;
   background-color: #9f767a;
+  font-family: 'Lato', sans-serif;
 }
 
 hr {
@@ -22,7 +23,15 @@ header, main, footer {
   margin: 0 auto;
 }
 
+h1, h2 {
+  font-family: 'Merriweather', serif;
+  font-style: oblique;
+  font-variant: small-caps;
+}
+
 h1 {
+  text-align: center;
+  text-shadow: 2px 2px 2px #8f767a;
   /* make page title press up against top of screen */
   margin: 0;
 }
