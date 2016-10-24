@@ -18,9 +18,17 @@ hr {
 }
 
 header, main, footer {
-  background-color: #94a8bf;
   width: 80%;
   margin: 0 auto;
+}
+
+header, footer {
+  background-color: #384053;
+  color: #94a8bf;
+}
+
+main {
+  background-color: #94a8bf;
 }
 
 h1, h2 {
