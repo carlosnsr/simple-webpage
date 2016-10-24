@@ -1,0 +1,25 @@
+/* Colour Scheme:
+ *
+ * boysenberry: #7d2e68
+ * bazaar: #9f767a
+ * charcoal: #384053
+ * pewter blue: #94a8bf
+ * raspberry glace: #84616A
+*/
+
+body {
+  color: #384053;
+  background-color: #9f767a;
+}
+
+header {
+  background-color: #94a8bf;
+}
+
+main {
+  background-color: #94a8bf;
+}
+
+footer {
+  background-color: #94a8bf;
+}
