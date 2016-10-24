@@ -17,17 +17,20 @@ hr {
   border: 1px solid;
 }
 
-header, main, footer {
+header, footer {
+  background-color: #384053;
+  color: #94a8bf;
+  padding: 0.5rem 0;
+}
+
+footer p {
   width: 80%;
   margin: 0 auto;
 }
 
-header, footer {
-  background-color: #384053;
-  color: #94a8bf;
-}
-
 main {
+  width: 80%;
+  margin: 0 auto;
   background-color: #94a8bf;
 }
 
@@ -37,7 +40,7 @@ h1, h2 {
   font-variant: small-caps;
 }
 
-h1 {
+header h1 {
   text-align: center;
   text-shadow: 2px 2px 2px #8f767a;
   /* make page title press up against top of screen */
